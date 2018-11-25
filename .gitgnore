@@ -1,3 +1,10 @@
 .DS_Store
 node_modules/
-bie
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
